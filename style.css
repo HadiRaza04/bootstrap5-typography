@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+}
+.titlee {
+    text-align: center;
+    background: rgb(43, 153, 226);
+    padding: 5px;
+}
+.container-fluid {
+    background-color: aqua;
+    padding: 15px;
+}
+ul>li {
+    list-style: none;
+}
+.container  {
+    background: blue;
+    color: aliceblue;
+    padding: 15px;
+}
